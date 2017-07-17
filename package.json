@@ -1,0 +1,17 @@
+{
+  "name": "modusecho",
+  "version": "0.0.1",
+  "description": "Test",
+  "cordova": {
+    "id": "com-moduscreate-plugins-echo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Eric B",
+  "license": "ISC"
+}
